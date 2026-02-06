@@ -1,4 +1,10 @@
-## Hi there 👋
+## welcome
+
+I am PhD statistician and ML scientist who builds quantitative models from complex environmental, sensor, and operational data to understand and predict real-world systems.
+
+
+
+
 
 <!--
 **MartenThompson/MartenThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
