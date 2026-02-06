@@ -1,8 +1,10 @@
-## welcome
+## Welcome
 
 I am PhD statistician and ML scientist who builds quantitative models from complex environmental, sensor, and operational data to understand and predict real-world systems.
 
+I am most passionate about tackling problems around climate and the environment. 
 
+Thanks for stopping by.
 
 
 
