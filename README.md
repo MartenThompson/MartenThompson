@@ -4,7 +4,7 @@ I am PhD statistician and ML scientist who builds quantitative models from compl
 
 I am most passionate about tackling problems around climate and the environment and have worked in blue tech (Sofar Ocean Technologies) and aerospace (NASA). 
 
-Thanks for stopping by; please feel free to reach out to me by email if you'd like to talk about opportunites working on climate solutions. 
+Thanks for stopping by; please feel free to reach out to me by email if you'd like to talk about opportunites working on climate solutions and other pro-social outcomes. 
 
 Happy trails.
 
